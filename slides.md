@@ -36,7 +36,7 @@ Agenda
 
 <!-- Slide 4 -->
 
-Por que usar sistema para controle de versão?
+Porque usar sistema para controle de versão?
 
 <ul>
     <li class="fragment">Armazenamento</li>
