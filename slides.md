@@ -89,7 +89,7 @@ Sobre o
 
 <!-- Slide 8 -->
 
-O que e GIT
+O que é GIT
 
 <ul>
     <li class="fragment">Sistema de controle de versão de arquivos</li>
